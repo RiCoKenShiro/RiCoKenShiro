@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiCoKenShiro
-- 👀 I’m interested in color science, color space, Hdr
+- 👀 I’m interested in color science, color space, Hdr, Color chart.
 - 📫 How to reach me : echerioux@cst.fr
 
 <!---
