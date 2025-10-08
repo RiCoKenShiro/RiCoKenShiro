@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RiCoKenShiro
-- 👀 I’m interested in color science, color space, Hdr, test pattern, DCP, IMF.
+- 👋 Hi, I’m eRiC Cherioux  
+- 👀 I’m interested in color science, gamut, Hdr, test pattern, DCP, IMF.
 - 📫 How to reach me : echerioux@cst.fr
 
 <!---
